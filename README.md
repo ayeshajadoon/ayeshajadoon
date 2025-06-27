@@ -37,7 +37,7 @@ Fine-tuning with Custom Data | Retrieval Augmented Generation (RAG) | Vector Emb
 Computer Vision | NLP | Machine Learning | Deep Learning | DNN  
 
 ☉ **Project Management Tools**  
-Jira  
+Jira | Asana    
 
 ☉ **Soft Skills**  
 Analytical Thinking | Problem-solving | Teamwork | Effective Communication  
