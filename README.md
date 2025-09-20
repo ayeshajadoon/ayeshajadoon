@@ -31,7 +31,7 @@ HTML/CSS | Flask | FastAPI
 Hugging Face Spaces | Vercel | Microsoft Azure  
 
 ☉ **AI Techniques**  
-Fine-tuning with Custom Data | Retrieval Augmented Generation (RAG) | Vector Embedding | Neural Network Optimization  
+Fine-tuning with Custom Data | Retrieval Augmented Generation (RAG) | Vector Embedding | Neural Network Optimization  | AI Workflows
 
 ☉ **Traditional AI**  
 Computer Vision | NLP | Machine Learning | Deep Learning | DNN  
