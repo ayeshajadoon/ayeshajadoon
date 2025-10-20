@@ -4,7 +4,7 @@
 📍 **Islamabad, Pakistan**  
 ☎️ **+92 314 5964707**  
 📧 **[ayesha_jadoon@outlook.com](mailto:ayesha_jadoon@outlook.com)  |  [ayesha.k.jadoon@gmail.com](mailto:ayesha.k.jadoon@gmail.com)**  
-🌐 **[Website]([https://my-portfolio-three-ecru-26.vercel.app/](https://ayeshakhanjadoon.vercel.app/))** | **[LinkedIn](https://www.linkedin.com/in/ayeshajadoon)**  
+🌐 **[Website](https://ayeshakhanjadoon.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/ayeshajadoon)**  
 
 ---
 # About Me
