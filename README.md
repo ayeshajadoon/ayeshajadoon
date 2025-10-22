@@ -70,8 +70,8 @@ Analytical Thinking | Problem-solving | Teamwork | Effective Communication
 | **BarristerBot – GenAI Legal Advisor** | [🔗 Project Link](https://github.com/ayeshajadoon/BarristerBot) <br> AI-powered legal advisor providing accessible legal assistance in Pakistan. <br> **Tools:** LLM, RAG pipeline, ChromaDB, Next.js, Text-to-Speech |
 | **AI Calling Agent for Dentist Appointments** | [🔗 Project Link](https://github.com/ayeshajadoon/Dentist-Appointment-Calling-Agent) <br> Automates dentist appointment scheduling with human-like conversations. <br> **Tools:** n8n, Twilio, ElevenLabs TTS, OpenAI API |
 | **Play Store Review Analyzer** | [🔗 Project Link](#) <br> Extracts functional/non-functional requirements and sentiment from Google Play reviews. <br> **Tools:** Python, Web Scraping, BiLSTM, spaCy, NLP |
-| **EmoVision – CNN Emotion Detection** | [🔗 Project Link](#) <br> Facial expression recognition using CNNs to classify emotions from images. <br> **Tools:** PyTorch, CNN, Data Preprocessing, Model Training |
-| **NeuroSeg – Brain Tumor Segmentation** | [🔗 Project Link](#) <br> Brain tumor detection and segmentation in MRI scans using U-Net. <br> **Tools:** U-Net, Medical Image Preprocessing, Segmentation, Model Training |
+| **EmoVision – CNN Emotion Detection** | [🔗 Project Link](https://coursera.org/verify/DNVESZFBHEUC) <br> Facial expression recognition using CNNs to classify emotions from images. <br> **Tools:** PyTorch, CNN, Data Preprocessing, Model Training |
+| **NeuroSeg – Brain Tumor Segmentation** | [🔗 Project Link](https://coursera.org/verify/FDJ9DH7B87A3) <br> Brain tumor detection and segmentation in MRI scans using U-Net. <br> **Tools:** U-Net, Medical Image Preprocessing, Segmentation, Model Training |
 | **Google Maps Scraper for Lead Generation** | [🔗 Project Link](https://github.com/ayeshajadoon/Google-Maps-Scraper-for-Lead-Generation/) <br> Python scraper to extract thousands of business leads efficiently. <br> **Tools:** Python, Web Scraping, selenium |
 
 
