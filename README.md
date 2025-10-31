@@ -48,7 +48,7 @@ Analytical Thinking | Problem-solving | Teamwork | Effective Communication
 ## 🎓 **Education** 
 - 🎓 **The University of Haripur**  *(Sep 2020 – Jul 2024)*  
 &nbsp;&nbsp;&nbsp;&nbsp; *Bachelor of Science in Computer Science | Haripur, Pakistan*   <br>
-&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** *3.97*
+&nbsp;&nbsp;&nbsp;&nbsp; **CGPA:** *3.97/4.00 (US)*
 
 ---
 
