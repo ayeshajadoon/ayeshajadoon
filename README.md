@@ -5,6 +5,8 @@
 📧 **[ayesha_jadoon@outlook.com](mailto:ayesha_jadoon@outlook.com)  |  [ayesha.k.jadoon@gmail.com](mailto:ayesha.k.jadoon@gmail.com)**  
 🌐 **[Website](https://ayeshakhanjadoon.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/ayeshajadoon)**  
 
+📄 **[⬇️ Download My Resume](https://raw.githubusercontent.com/ayeshajadoon/ayeshajadoon/main/Ayesha%20Khan%20Wurzburg%20AI.pdf)**
+
 ---
 ## 🚀 *About Me*
 > A dedicated ML Engineer passionate about leveraging Artificial Intelligence, Machine Learning, and Data Science to build innovative and impactful solutions.
