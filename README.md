@@ -5,7 +5,7 @@
 📧 **[ayesha_jadoon@outlook.com](mailto:ayesha_jadoon@outlook.com)  |  [ayesha.k.jadoon@gmail.com](mailto:ayesha.k.jadoon@gmail.com)**  
 🌐 **[Website](https://ayeshakhanjadoon.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/ayeshajadoon)**  
 
-📄 **[⬇️ Download My Resume](https://raw.githubusercontent.com/ayeshajadoon/ayeshajadoon/main/Ayesha%20Khan%20Wurzburg%20AI.pdf)**
+⬇️ **[Download My Resume](https://raw.githubusercontent.com/ayeshajadoon/ayeshajadoon/main/Ayesha%20Khan%20Wurzburg.pdf)**
 
 ---
 ## 🚀 *About Me*
