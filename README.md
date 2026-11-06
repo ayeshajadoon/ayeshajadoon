@@ -82,9 +82,10 @@ Analytical Thinking | Problem-solving | Teamwork | Effective Communication
 
 ## 📞 Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/ayeshajadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ayesha Khan" height="30" width="40" /></a>
-<a href="https://x.com/AyeshaJadoon07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AyeshaJadoon" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/ayeshajadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayeshajadoon" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/ayeshajadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://x.com/AyeshaJadoon07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/ayeshajadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://huggingface.co/AyeshaJadoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" height="30" width="40" /></a>
 </p>
 
 ___ 
