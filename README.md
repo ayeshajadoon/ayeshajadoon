@@ -1,8 +1,8 @@
 # **Ayesha Khan**  
 
 🔧 **Machine Learning Engineer | Generative AI Engineer**  
-📍 **Islamabad, Pakistan | ☎️ +92 314 5964707**  
-📧 **[ayesha_jadoon@outlook.com](mailto:ayesha_jadoon@outlook.com)  |  [ayesha.k.jadoon@gmail.com](mailto:ayesha.k.jadoon@gmail.com)**  
+📍 **Nuremberg, Germany | ☎️ +49 1791751748**  
+📧 **[ayeshakhanjd@gmail.com](mailto:ayeshakhanjd@gmail.com)  |  [ayesha.k.jadoon@gmail.com](mailto:ayesha.k.jadoon@gmail.com)**  
 🌐 **[Website](https://ayeshakhanjadoon.vercel.app/)** | **[LinkedIn](https://www.linkedin.com/in/ayeshajadoon)**  
 
 ⬇️ **[Download My Resume](https://raw.githubusercontent.com/ayeshajadoon/ayeshajadoon/main/Ayesha%20Khan%20Wurzburg.pdf)**
